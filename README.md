@@ -36,7 +36,7 @@
 
 ## Gestión del proyecto
 
-El proyecto se desarrolla con **Scrum**: el trabajo se organiza en sprints y las historias de usuario se gestionan en Jira.
+El proyecto se desarrolla con Scrum: el trabajo se organiza en sprints y las historias de usuario se gestionan en Jira.
 
 | Recurso | Enlace |
 | :-- | :-- |
